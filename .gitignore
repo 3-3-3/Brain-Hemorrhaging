@@ -1,0 +1,7 @@
+#Folders to ignore
+Images
+
+#File Types to Ignore
+*.csv
+*.zip
+*.dcm
