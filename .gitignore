@@ -2,6 +2,7 @@
 Images
 
 #File Types to Ignore
+*.DS_Store
 *.csv
 *.zip
 *.dcm
