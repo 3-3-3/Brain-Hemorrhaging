@@ -1,5 +1,6 @@
 #Folders to ignore
 Images
+ 	.ipynb_checkpoints
 
 #File Types to Ignore
 *.DS_Store
