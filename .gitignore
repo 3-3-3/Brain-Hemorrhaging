@@ -1,6 +1,7 @@
 #Folders to ignore
 Images
 .ipynb_checkpoints
+epidural_logs
 
 #File Types to Ignore
 *.DS_Store
